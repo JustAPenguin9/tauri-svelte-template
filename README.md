@@ -2,7 +2,6 @@
 
 This template should help get you started developing with Tauri and Svelte in Vite.
 
-
 Search for all occurrences of "changeme" then change them to the proper name of the project and edit the authors field in `Cargo.toml`.
 
 # Prerequisites

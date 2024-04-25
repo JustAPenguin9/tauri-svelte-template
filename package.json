@@ -9,7 +9,7 @@
 		"preview": "vite preview",
 		"tauri": "tauri",
 		"lint": "prettier --check . && eslint .",
-		"format": "prettier --write . && "
+		"format": "prettier --write . && cargo fmt --manifest-path src-tauri/Cargo.toml"
 	},
 	"dependencies": {
 		"@tauri-apps/api": "^1.5.3"
